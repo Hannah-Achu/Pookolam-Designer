@@ -1,6 +1,6 @@
 # 🌸 Pookolam Designer
 
-![Pookolam Banner](https://via.placeholder.com/800x200?text=Pookolam+Designer)  
+
 
 Pookolam Designer is an **interactive web app** for creating beautiful, traditional **Pookolam (flower carpet) designs** digitally. Explore, customize, and share intricate floral patterns with ease!  
 
@@ -15,9 +15,9 @@ Pookolam Designer is an **interactive web app** for creating beautiful, traditio
 
 ---
 
-## 🖼️ Demo & Screenshots
+## 🖼️ Demo
 
-![Design GIF](https://via.placeholder.com/600x300?text=Animated+GIF+of+Pookolam+Designer)  
+
 
 Check out the live demo: https://pookolam-designer-87cd.vercel.app/
 
